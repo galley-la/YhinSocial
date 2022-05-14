@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241322156544",
+    "project_id": "yhinsocial",
+    "storage_bucket": "yhinsocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241322156544:android:05ebd4252aad5a43722ee5",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.yhinsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241322156544-snnpf7gaiqu7cfkadv5f4baeuq8q5jld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdCmmosAOsMcG1ENS7odoZkQVwfxQXSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241322156544-snnpf7gaiqu7cfkadv5f4baeuq8q5jld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

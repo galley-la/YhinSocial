@@ -40,7 +40,7 @@ class MyDiablog {
               ? const SizedBox()
               : ShowTextButton(label: label2!, pressFunc: pressFunc2),
           ShowTextButton(
-              label: 'Cancel',
+              label: pressFunc1 == null ? 'OK' : 'Cancel' ,
               pressFunc: () {
                 Navigator.pop(context);
               }),
